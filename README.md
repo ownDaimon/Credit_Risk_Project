@@ -1,5 +1,5 @@
 # Credit_Risk_Project
-[First of all, I want to inform you that the methodology of this project is well funded however the data set was created by the author themself for educational purposes. Thus data is far from a monster.]
+[First of all, I want to inform you that the methodology of this project is well founded however the data set was created by the author themself for educational purposes. Thus data is far from a monster.]
 
 This project develops a comprehensive end-to-end credit risk assessment framework that combines machine learning techniques with traditional credit risk management principles to support lending decisions. The primary objective is to estimate the probability that a borrower will default on a loan and translate these predictions into actionable business decisions through expected loss estimation and an internal credit decision engine.
 
